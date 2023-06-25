@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Basic.iml" filepath="$PROJECT_DIR$/Java-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/events-xml-json/events-xml-json.iml" filepath="$PROJECT_DIR$/events-xml-json/events-xml-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input-output/input-output.iml" filepath="$PROJECT_DIR$/input-output/input-output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
     </modules>
   </component>
 </project>
