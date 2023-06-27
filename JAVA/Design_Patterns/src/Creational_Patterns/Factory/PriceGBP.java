@@ -1,4 +1,4 @@
-package Creative_Patterns.Factory;
+package Creational_Patterns.Factory;
 
 public class PriceGBP implements Price{
   @Override

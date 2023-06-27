@@ -1,4 +1,4 @@
-package Creative_Patterns.Prototype;
+package Creational_Patterns.Prototype;
 
 public class Car implements Cloneable{
   public String brand;

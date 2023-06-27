@@ -1,4 +1,4 @@
-package Creative_Patterns.singleton;
+package Creational_Patterns.singleton;
 
 public class SingletonService {
   private static SingletonService instance;
