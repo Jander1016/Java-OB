@@ -1,0 +1,3 @@
+OpenBootcamp2,Open2,Bootcamp2,example2@open-bootcamp.com,2
+OpenBootcamp3,Open3,Bootcamp3,example3@open-bootcamp.com,3
+OpenBootcamp,Open,Bootcamp,example@open-bootcamp.com,1
